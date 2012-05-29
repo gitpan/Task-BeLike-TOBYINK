@@ -1,0 +1,6 @@
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK/project> <http://purl.org/NET/cpan-uri/terms#requires> "Task::BeLike::TOBYINK::Data" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK/project> <http://purl.org/NET/cpan-uri/terms#requires> "Task::BeLike::TOBYINK::Moose" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK/project> <http://purl.org/NET/cpan-uri/terms#requires> "Task::BeLike::TOBYINK::Plack" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK/project> <http://purl.org/NET/cpan-uri/terms#requires> "Task::BeLike::TOBYINK::RDF" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK/project> <http://purl.org/NET/cpan-uri/terms#requires> "Task::BeLike::TOBYINK::Utils" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK/project> <http://purl.org/NET/cpan-uri/terms#requires> "Task::BeLike::TOBYINK::Web" .
