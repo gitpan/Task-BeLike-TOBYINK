@@ -8,6 +8,8 @@ DESCRIPTION
 
     *   Task::BeLike::TOBYINK::Moose
 
+    *   Task::BeLike::TOBYINK::Packaging
+
     *   Task::BeLike::TOBYINK::Plack
 
     *   Task::BeLike::TOBYINK::RDF

@@ -4,7 +4,7 @@ use 5.010;
 
 BEGIN {
 	$Task::BeLike::TOBYINK::AUTHORITY = 'cpan:TOBYINK';
-	$Task::BeLike::TOBYINK::VERSION   = '2012.150';
+	$Task::BeLike::TOBYINK::VERSION   = '2012.155';
 }
 
 __PACKAGE__
@@ -23,6 +23,8 @@ Task installs the following modules:
 =item * Task::BeLike::TOBYINK::Data
 
 =item * Task::BeLike::TOBYINK::Moose
+
+=item * Task::BeLike::TOBYINK::Packaging
 
 =item * Task::BeLike::TOBYINK::Plack
 
